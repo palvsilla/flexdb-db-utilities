@@ -1,5 +1,5 @@
 # Offline MySQL Backup and Restore
-This folder contains backup and restore utilities.
+This folders contains backup and restore utilities script and readme to setup.
 
 The Backup and Restore Utility is a collection of wrapper scripts 
 developed in Bash and Python that leverage MySQL Shell utilities to
