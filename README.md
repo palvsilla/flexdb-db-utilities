@@ -1,4 +1,4 @@
-# Offline MySQL Backup and Restore
+# Offline flexdb MySQL Backup and Restore System
 This folders contains backup and restore utilities script and readme to setup.
 
 The Backup and Restore Utility is a collection of wrapper scripts 
